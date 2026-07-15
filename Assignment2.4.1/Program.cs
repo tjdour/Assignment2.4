@@ -1,5 +1,4 @@
-﻿
-//Assignment 2.4.1
+﻿//Assignment 2.4.1
 Console.WriteLine("Calculating sum of an array.\nEnter size of array: ");
 int arraySize = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int [arraySize];
